@@ -8,11 +8,6 @@
 
 [Końcowy raport JSON](results/exercise-summary.json) · [Pełne zapisy sesji](sesje/)
 
-Eksporty sesji zachowują wszystkie zdarzenia; kopie do publikacji mają
-zanonimizowane dane osobowe i instytucjonalne oraz ścieżki. Te same aliasy
-ścieżek zastosowano w raporcie JSON. Zakres zmian opisuje
-[informacja o anonimizacji](sesje/README.md).
-
 ## 1. Zlecony wynik, granice i odbiór
 
 Zleciłem zliczenie wiadomości oraz etykiet `ham` i `spam` w
